@@ -4,7 +4,7 @@ class EditExercise extends Component{
     render(){
         return(
             <div>
-                <p>This is the Edit Exercise List Component!</p>
+                <p>This is the Edit Exercise Component!</p>
             </div>
         );
     }

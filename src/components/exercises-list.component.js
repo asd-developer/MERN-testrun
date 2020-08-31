@@ -4,7 +4,7 @@ class ExercisesList extends Component{
     render(){
         return(
             <div>
-                <p>This is the  Exercise List Component!</p>
+                <p>This is the Exercise List Component!</p>
             </div>
         );
     }
